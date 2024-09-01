@@ -1,0 +1,2 @@
+# Machine-Learning-Project-Sentiment140-Twitter-Dataset-Analysis
+In this project, I aim to conduct sentiment analysis on the Sentiment140 dataset, a publicly  available dataset created by three graduate students at Stanford University: Alec Go, Richa  Bhayani, and Lei Huang. The dataset consists of approximately 1,60,000 automatically annotated  tweets, making it a valuable resource for sentiment analysis tasks.
